@@ -1,4 +1,4 @@
-![SPDLab](https://github.com/resulal/MCSKopt/blob/master/Examples/Figs/MCSKopt.PNG "MCSKopt")
+![SPDLab](https://github.com/resulal/SPDLab/blob/master/Figs/SPDLab.PNG "MCSKopt")
 
 # SPDLab
 Simulation-based flowsheet synthesis workflows for wastewater treatment plant design.

@@ -6,7 +6,9 @@ Simulation-based flowsheet synthesis workflows for wastewater treatment plant de
 SPDLab is a MATLAB-based toolbox providing classes and functions automating simulation-based process synthesis and design of wastewater treatement plants (WWTPs). It implements the framework published in the following papers.
 
 **Towards development of a decision support tool for conceptual design of wastewater treatment plants using stochastic simulation optimization**
+
 **Stochastic simulation-based superstructure optimization framework for process synthesis and design under uncertainty**
+
 **A process synthesis tool for WWTP - An application to design sustainable energy resource recovery facilities**
 
 ### Installing SPDLab

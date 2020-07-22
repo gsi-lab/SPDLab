@@ -1,5 +1,5 @@
 function [OCI,COD,SNH,TN] = rs_extractD(D)
-    % Extract the results from parallel Monte Carlo simulations.
+    % Extract the results from parallel Monte Carlo simulations. 
     % By Resul Al @DTU
     
     COD = NaN(size(D))'; 
